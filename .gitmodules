@@ -1,3 +1,6 @@
 [submodule "demo-css"]
 	path = demo-css
 	url = https://github.com/rakshita0808/demo-css.git
+[submodule "demo-js"]
+	path = demo-js
+	url = https://github.com/rakshita0808/demo-js.git
